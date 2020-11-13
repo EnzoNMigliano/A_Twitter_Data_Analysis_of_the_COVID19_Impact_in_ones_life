@@ -1,4 +1,4 @@
-![BLM PHOTO]() <br />
+![BLM PHOTO](https://raw.githubusercontent.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/main/Images/Main%20Picture.jpg) <br />
 Photo: Nathan Laine / Hans Lucas - AFP 
 
 # A Twitter Data Analysis of the COVID-19 Impact in One's Life
