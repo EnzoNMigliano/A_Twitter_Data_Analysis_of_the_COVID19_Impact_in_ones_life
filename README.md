@@ -1,4 +1,4 @@
-![BLM PHOTO]() <br />
+![BLM PHOTO](https://raw.githubusercontent.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/main/Images/Main%20Picture%20option%20two.jpg) <br />
 Photo: MACIE J. LUCZNIEWSKI—NURPHOTO/GETTY IMAGES
 
 
