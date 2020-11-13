@@ -1,9 +1,8 @@
 
 <p align="center">
   <img width="460" height="300" src="https://raw.githubusercontent.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/main/Images/Main%20Picture%20option%20two.jpg">
+Photo: Macie J. Luczniewski - Nurphoto/Getty Images
 </p>
-
-Photo: MACIE J. LUCZNIEWSKI—NURPHOTO/GETTY IMAGES
 
 
 # A Twitter Data Analysis of the COVID-19 Impact in One's Life
