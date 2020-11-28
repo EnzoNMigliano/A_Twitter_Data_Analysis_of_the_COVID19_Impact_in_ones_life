@@ -14,8 +14,8 @@ Under the broad research question: What are the impact of COVID-19 in ones life?
 
 ### The contributors for this project
 
- - Arianna Lupi (@)
+ - Arianna Lupi (@arinnalupi)
  
  - Enzo Novi Migliano (@EnzoNMigliano)
  
- - Raul Ramon (@)
+ - Raul Ramon (@raulramon)
