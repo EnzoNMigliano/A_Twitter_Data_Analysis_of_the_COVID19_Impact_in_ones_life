@@ -6,7 +6,7 @@ Photo: Macie J. Luczniewski - Nurphoto/Getty Images
 </p>
 <h1>
 <p align="center">
-A Twitter Data Analysis of the COVID-19 Impact in One's Life 
+A Twitter Data Analysis of the COVID-19 Impact in One's Life 🦠
 </p>
 </h1>
 
@@ -41,7 +41,7 @@ A Twitter Data Analysis of the COVID-19 Impact in One's Life
   
   - What are the expectations of the Covid-19 vaccine?
   
-### How Covid-19 impacted the people who were infected and/or tested positive for the disease?
+### :heavy_check_mark: How Covid-19 impacted the people who were infected and/or tested positive for the disease?
 
 
  <br/>
