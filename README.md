@@ -10,15 +10,16 @@ Photo: Macie J. Luczniewski - Nurphoto/Getty Images
 
 Under the broad research question: What are the impact of COVID-19 in ones life? Our team collected Twitter data to answer research hypothesis, producing models, and have a better understanding of the factors that influence one's reaction to the global pandemic.
 
-
+ <br/>
+ <br/>
 
 ### The contributors for this project
 
- - Arianna Lupi (@arinnalupi)
+ - Arianna Lupi (@arinnalupi) - ST. Thomas University Carnival Cruise Lines Scholl of Science
  
- - Enzo Novi Migliano (@EnzoNMigliano)
+ - Enzo Novi Migliano (@EnzoNMigliano) - ST. Thomas University Carnival Cruise Lines Scholl of Science
  
- - Raul Ramon (@raulramon)
+ - Raul Ramon (@raulramon) - ST. Thomas University Carnival Cruise Lines Scholl of Science
  
  <br/>
  <br/>
