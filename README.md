@@ -15,7 +15,7 @@ A Twitter Data Analysis of the COVID-19 Impact in One's Life 🦠
  <br/>
  <br/>
 
-## The contributors for this project
+## The Contributors for this Project
 
  - **Arianna Lupi** &ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(*@arinnalupi*) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- ST. Thomas University Carnival Cruise Lines Scholl of Science
  
@@ -26,6 +26,13 @@ A Twitter Data Analysis of the COVID-19 Impact in One's Life 🦠
  <br/>
  <br/>
  
+ 
+ ## Motivations & Past Research
+ 
+ <br/>
+ <br/>
+ 
+ # The Present Study
  ## Packages Utilized
  
  - p
@@ -33,14 +40,12 @@ A Twitter Data Analysis of the COVID-19 Impact in One's Life 🦠
  <br/>
  <br/>
  
- 
- ## Past Research
+ ## Statistical Analysis 
  
  <br/>
  <br/>
  
- ## The Present Study
- 
+ ## Research Questions
 &nbsp; &nbsp; Covid-19 impacted the life of many, as several people got infect with the disease or even passed away. The scope of the consequences that pandemic brought to society is huge, therefore, the present project approached, under the theme Covid-19 impact in one's life, three major research questions:
   
   
@@ -67,7 +72,10 @@ A Twitter Data Analysis of the COVID-19 Impact in One's Life 🦠
 
 
  <br/>
+ <br/>
+ 
 
+ 
 </p>
 <h1>
 <p align="center">
