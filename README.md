@@ -67,3 +67,55 @@ References
 </p>
 </h1>
 
+[1]  R Core Team (2020). R: A language and
+  environment for statistical computing. R
+  Foundation for Statistical Computing,
+  Vienna, Austria. URL
+  https://www.R-project.org/.
+  
+[2] RStudio Team (2020). RStudio: Integrated           Development for R. RStudio, PBC, Boston, MA URL      http://www.rstudio.com/.
+
+[3] Software Freedom Conservancy, Inc., 2020. [Online]. Available: https://git-scm.com/
+
+[4] GitHub, Inc., 2020. [Online]. Available: https://github.com/
+
+[5] Wickham et al., (2019). Welcome to the
+  tidyverse. Journal of Open Source
+  Software, 4(43), 1686,
+  https://doi.org/10.21105/joss.01686
+
+[6] Taiyun Wei and Viliam Simko (2017). R
+  package "corrplot": Visualization of a
+  Correlation Matrix (Version 0.84).
+  Available from
+  https://github.com/taiyun/corrplot
+
+
+[7] Jarek Tuszynski (2020). caTools: Tools:
+  Moving Window Statistics, GIF, Base64,
+  ROC AUC, etc. R package version 1.18.0.
+  https://CRAN.R-project.org/package=caTools
+
+[8] Max Kuhn (2020). caret: Classification
+  and Regression Training. R package
+  version 6.0-86.
+  https://CRAN.R-project.org/package=caret
+
+
+[9] Hyndman R, Athanasopoulos G, Bergmeir C,
+  Caceres G, Chhay L, O'Hara-Wild M,
+  Petropoulos F, Razbash S, Wang E, Yasmeen F
+  (2020). _forecast: Forecasting functions
+  for time series and linear models_. R
+  package version 8.13, <URL:
+  https://pkg.robjhyndman.com/forecast/>.
+  
+  
+  
+  
+</p>
+<h1>
+<p align="center">
+"Keep it calm and be P<0.05" 
+</p>
+</h1>
