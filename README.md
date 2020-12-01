@@ -115,9 +115,10 @@ References
   
 </p>
 <h1>
-<span style="color: blue;">.
 <p align="center">
+  <span style="color: blue;">
 "Keep it calm and be P<0.05" 
+  </span>
 </p>
 </h1>
-</span>
+
