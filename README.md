@@ -20,7 +20,8 @@ Under the broad research question: What are the impact of COVID-19 in ones life?
  
  - Raul Ramon (@raulramon)
  
- 
+ <br/>
+ <br/>
  
  ### The research 
  
