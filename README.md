@@ -48,6 +48,7 @@ A Twitter Data Analysis of the COVID-19 Impact in One's Life 🦠
 
 ### Before 2020
 
+<img src = "https://raw.githubusercontent.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/main/Images/Front%20Line%20Workers%20Before%202020%20-%20Word%20Cloud.jpeg">
 
 
  <br/>
