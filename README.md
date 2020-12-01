@@ -37,15 +37,15 @@ Under the broad research question: What are the impact of COVID-19 in ones life?
 #### How Covid-19 impacted the people who were infected and/or tested positive for the disease?
 
 
-
+ <br/>
 
 #### How Covid-19 impacted the front line workers?
 
 
 
-
+ <br/>
 
 #### What are the expectations of the Covid-19 vaccine?
 
 
-
+ <br/>
