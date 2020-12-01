@@ -119,6 +119,7 @@ References
   <span style="color: blue">
 "Keep it calm and be P<0.05" 
   </span>
-</p>
 </h1>
+</p>
+
 
