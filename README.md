@@ -46,13 +46,13 @@ A Twitter Data Analysis of the COVID-19 Impact in One's Life
 
  <br/>
 
-### How Covid-19 impacted the front line workers :hospital:?
+### :hospital: How Covid-19 impacted the front line workers?
 
 
 
  <br/>
 
-### What are the expectations of the Covid-19 vaccine :syringe:?
+### :syringe: What are the expectations of the Covid-19 vaccine?
 
 
  <br/>
