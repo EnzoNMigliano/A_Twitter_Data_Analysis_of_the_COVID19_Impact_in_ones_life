@@ -19,3 +19,31 @@ Under the broad research question: What are the impact of COVID-19 in ones life?
  - Enzo Novi Migliano (@EnzoNMigliano)
  
  - Raul Ramon (@raulramon)
+ 
+ 
+ 
+ ### The research 
+ 
+ Covid-19 impacted the life of many, as several people got infect with the disease or even passed away. The scope of the consequences that pandemic brought to society is huge, therefore, the present project approached, under the theme Covid-19 impact in one's life, three major research questions:
+ 
+  - How Covid-19 impacted the people who were infected and/or tested positive for the disease?
+  
+  - How Covid-19 impacted the front line workers?
+  
+  - What are the expectations of the Covid-19 vaccine?
+  
+#### How Covid-19 impacted the people who were infected and/or tested positive for the disease?
+
+
+
+
+#### How Covid-19 impacted the front line workers?
+
+
+
+
+
+#### What are the expectations of the Covid-19 vaccine?
+
+
+
