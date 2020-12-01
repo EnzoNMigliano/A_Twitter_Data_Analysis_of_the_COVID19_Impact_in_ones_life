@@ -25,8 +25,12 @@ A Twitter Data Analysis of the COVID-19 Impact in One's Life
  
  <br/>
  <br/>
+ ## Past Research
  
- ## The research 
+ <br/>
+ <br/>
+ 
+ ## The Presemt Study
  
 &nbsp; &nbsp; Covid-19 impacted the life of many, as several people got infect with the disease or even passed away. The scope of the consequences that pandemic brought to society is huge, therefore, the present project approached, under the theme Covid-19 impact in one's life, three major research questions:
  
