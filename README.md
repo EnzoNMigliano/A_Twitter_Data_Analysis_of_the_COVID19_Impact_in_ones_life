@@ -43,10 +43,10 @@ A Twitter Data Analysis of the COVID-19 Impact in One's Life 🦠
 
 ### :hospital: How Covid-19 impacted the front line workers?
 
-#### Sentment Analysis
+### Sentment Analysis
 
 
-##### Before 2020
+### Before 2020
 
 
 
