@@ -15,11 +15,11 @@ Under the broad research question: What are the impact of COVID-19 in ones life?
 
 ### The contributors for this project
 
- - **Arianna Lupi** &ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(*@arinnalupi*) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- ST. Thomas University Carnival Cruise Lines Scholl of Science
+ - **Arianna Lupi** &ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(*@arinnalupi*) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- ST. Thomas University Carnival Cruise Lines Scholl of Science
  
  - **Enzo Novi Migliano** &nbsp;(*@EnzoNMigliano*) &nbsp;- ST. Thomas University Carnival Cruise Lines Scholl of Science
  
- - **Raul Ramon** &ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(*@raulramon*) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- ST. Thomas University Carnival Cruise Lines Scholl of Science
+ - **Raul Ramon** &ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(*@raulramon*) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - ST. Thomas University Carnival Cruise Lines Scholl of Science
  
  <br/>
  <br/>
