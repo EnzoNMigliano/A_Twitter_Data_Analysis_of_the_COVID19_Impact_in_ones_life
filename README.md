@@ -28,21 +28,21 @@ A Twitter Data Analysis of the COVID-19 Impact in One's Life 🦠
  
   ## R Packages Utilized
  In other to perform all the statistical analysis and gather the data from twitter we utilized several packages:
- 
- - tidyverse [5]
- - corrplot [6]
- - caTools [7]
- - caret [8]
- - forecast [9]
- -
- -
- -
- -
- -
- -
- -
- - Rtweet
- - party
+ |  | Package Name | | Package Name |
+| --- | --- | --- |--- |
+| [5] | tidyverse | [6] | corrplot |
+| [7] | caTools | [8] | caret |
+| [9] | forecast | | |
+|  |  | | |
+|  |  | | |
+|  |  | | |
+|  |  | | |
+|  |  | | |
+|  |  | | |
+|  |  | | |
+|  |  | | |
+
+
  
  <br/>
  <br/>
