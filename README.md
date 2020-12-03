@@ -33,7 +33,7 @@ A Twitter Data Analysis of the COVID-19 Impact in One's Life 🦠
 | [13] | stringr | [14] | tm | [15] | quanteda | [16] | reshape2 |
 | [17] | lda | [18] | syuzhet | [19] | wordcloud2 | [20] | ctree |
 | [21] | party | [22] | rpart | [23] | rpart.plot | [24] | e1071 |
-|  |  | | | |  |  | |
+| [25] | rtweet  | [26] | RMySQL | [27] | odbc | [28] | DBI |
 |  |  | | | |  |  | |
 |  |  | | | |  |  | |
 
