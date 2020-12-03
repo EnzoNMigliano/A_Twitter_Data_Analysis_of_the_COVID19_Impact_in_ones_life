@@ -10,7 +10,7 @@ A Twitter Data Analysis of the COVID-19 Impact in One's Life 🦠
 </p>
 </h1>
 
-&nbsp; &nbsp; Under the broad research question: <code> **What are the impact of COVID-19 in one's life?** </code> Our team collected Twitter data to answer research hypothesis, producing models, and have a better understanding of the factors that influence one's reaction to the global pandemic.
+&nbsp; &nbsp; Under the broad research question: <code> **What are the impacts of COVID-19 in one's life?** </code> Our team collected Twitter data to answer research hypothesis, producing models, and have a better understanding of the factors that influence one's reaction to the global pandemic. Our team collected more than 300 thousand tweets raging from 2009 to November of 2020. We utilized the open source software R [1] and the Rstudio [2] in order to gather the tweets and perform the different statistical analysis. We also utilized Git [3] and GitHub [4] to organize and share our project with the community. If you wish to check the coding behind all the statistical models and ohter relavant topics of the project, please access the folder named "Scripts". If you wish to have access to the graphs genarated throughout our project, please acess the folder named "Images".
 
  <br/>
  <br/>
@@ -26,6 +26,26 @@ A Twitter Data Analysis of the COVID-19 Impact in One's Life 🦠
  <br/>
  <br/>
  
+  ## R Packages Utilized
+ In other to perform all the statistical analysis and gather the data from twitter we utilized several packages:
+ 
+ - tidyverse [5]
+ - corrplot [6]
+ - caTools [7]
+ - caret [8]
+ - forecast [9]
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ - Rtweet
+ - party
+ 
+ <br/>
+ <br/>
  
  ## Motivations & Past Research
  
@@ -33,13 +53,6 @@ A Twitter Data Analysis of the COVID-19 Impact in One's Life 🦠
  <br/>
  
  # The Present Study
- ## Packages Utilized
- 
- - p
- 
- <br/>
- <br/>
- 
  ## Statistical Analysis 
  
  <br/>
