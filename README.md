@@ -185,7 +185,7 @@ References
 </p>
 <h1>
 <p align="center">
-"Keep it calm and be P<0.05" 
+"Keep calm and be P<0.05" 
 </h1>
 </p>
 
