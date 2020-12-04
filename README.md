@@ -31,7 +31,7 @@ A Twitter Data Analysis of the COVID-19 Impact in One's Life 🦠
 | [5] | tidyverse | [6] | corrplot | [7] | caTools | [8] | caret |
 | [9] | forecast | [10] | arules | [11] | arulesViz | [12] | lubridate |
 | [13] | stringr | [14] | tm | [15] | quanteda | [16] | reshape2 |
-| [17] | lda | [18] | syuzhet | [19] | wordcloud2 | [20] |  |
+| [17] | lda | [18] | syuzhet | [19] | wordcloud2 | [20] | ctree |
 | [21] | party | [22] | rpart | [23] | rpart.plot | [24] | e1071 |
 | [25] | rtweet  | [26] | RMySQL | [27] | odbc | [28] | DBI |
 |  |  | | | |  |  | |
@@ -152,41 +152,41 @@ References
   
 [10] Hahsler M, Buchta C, Gruen B, Hornik K (2020). arules: Mining Association Rules and Frequent Itemsets. R package version 1.6-6, https://CRAN.R-project.org/package=arules.
 
-[11]
+[11] Michael Hahsler (2019). arulesViz: Visualizing Association Rules and Frequent Itemsets. R package version 1.3-3. https://CRAN.R-project.org/package=arulesViz
 
-[12]
+[12] Grolemund G, Wickham H (2011). “Dates and Times Made Easy with lubridate.” Journal of Statistical Software, 40(3), 1–25. https://www.jstatsoft.org/v40/i03/.
 
-[13]
+[13] Hadley Wickham (2019). stringr: Simple, Consistent Wrappers for Common String Operations. R Package version 	1.4.0 https://cran.r-project.org/web/packages/stringr/index.html
 
-[14]
 
-[15]
+[14] Feinerer I, Hornik K (2020). tm: Text Mining Package. R package version 0.7-8, https://CRAN.R-project.org/package=tm.
 
-[16] Wickham H (2007). “Reshaping Data with the reshape Package.” Journal of Statistical Software, 21(12), 1–20. http://www.jstatsoft.org/v21/i12/.
 
-[17] Blei, David M. and Ng, Andrew and Jordan, Michael (2003). Latent Dirichlet allocation. Journal of Machine Learning Research, 2003. https://cran.r-project.org/web/packages/lda/index.html.
 
-[18] Jockers ML (2015). Syuzhet: Extract Sentiment and Plot Arcs from Text. https://github.com/mjockers/syuzhet.
+[15] Benoit K, Watanabe K, Wang H, Nulty P, Obeng A, Müller S, Matsuo A (2018). “quanteda: An R package for the quantitative analysis of textual data.” Journal of Open Source Software, 3(30), 774. doi: 10.21105/joss.00774, https://quanteda.io.
 
-[19] 	Dawei Lang, Guan-tin Chien (2018). Wordcloud2: Create Word Cloud. https://cran.r-project.org/web/packages/wordcloud2/index.html.
 
-[20]
 
-[21] Hothorn T, Hornik K, Zeileis A (2006). “Unbiased Recursive Partitioning: A Conditional Inference Framework.” Journal of Computational and Graphical Statistics, 15(3), 651–674. https://cran.r-project.org/web/packages/party/index.html
+[16] 
 
-[22] 
+
+[17]
+
+[18]
+
+[19]
+
+[21]
+
+[22]
 
 [23]
 
 [24]
 
-[25]
+[]
 
-[26]
-
-[27]
-
-[28]
+[]
   
 </p>
 <h1>
