@@ -48,7 +48,7 @@ A Twitter Data Analysis of the COVID-19 Impact in One's Life 🦠
  
  # The Present Study
  ## Statistical Analysis 
- Among the several statistical analysis of supervisionated and unsupervisionated models the most frequnt used models in the present project were:
+ Among the several supervisionated and unsupervisionated statistical models the most frequent ones in the present project were:
  
  - Decision Trees
  
