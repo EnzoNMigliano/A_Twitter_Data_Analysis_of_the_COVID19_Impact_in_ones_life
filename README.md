@@ -150,7 +150,7 @@ References
   package version 8.13, <URL:
   https://pkg.robjhyndman.com/forecast/>.
   
-[10] 
+[10] Hahsler M, Buchta C, Gruen B, Hornik K (2020). arules: Mining Association Rules and Frequent Itemsets. R package version 1.6-6, https://CRAN.R-project.org/package=arules.
 
 [11]
 
