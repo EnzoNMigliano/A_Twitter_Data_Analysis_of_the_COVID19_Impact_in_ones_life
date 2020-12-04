@@ -31,7 +31,7 @@ A Twitter Data Analysis of the COVID-19 Impact in One's Life 🦠
 | [5] | tidyverse | [6] | corrplot | [7] | caTools | [8] | caret |
 | [9] | forecast | [10] | arules | [11] | arulesViz | [12] | lubridate |
 | [13] | stringr | [14] | tm | [15] | quanteda | [16] | reshape2 |
-| [17] | lda | [18] | syuzhet | [19] | wordcloud2 | [20] | ctree |
+| [17] | lda | [18] | syuzhet | [19] | wordcloud2 | [20] |  |
 | [21] | party | [22] | rpart | [23] | rpart.plot | [24] | e1071 |
 | [25] | rtweet  | [26] | RMySQL | [27] | odbc | [28] | DBI |
 |  |  | | | |  |  | |
@@ -162,25 +162,31 @@ References
 
 [15]
 
-[16]
+[16] Wickham H (2007). “Reshaping Data with the reshape Package.” Journal of Statistical Software, 21(12), 1–20. http://www.jstatsoft.org/v21/i12/.
 
-[17]
+[17] Blei, David M. and Ng, Andrew and Jordan, Michael (2003). Latent Dirichlet allocation. Journal of Machine Learning Research, 2003. https://cran.r-project.org/web/packages/lda/index.html.
 
-[18]
+[18] Jockers ML (2015). Syuzhet: Extract Sentiment and Plot Arcs from Text. https://github.com/mjockers/syuzhet.
 
-[19]
+[19] 	Dawei Lang, Guan-tin Chien (2018). Wordcloud2: Create Word Cloud. https://cran.r-project.org/web/packages/wordcloud2/index.html.
 
-[21]
+[20]
 
-[22]
+[21] Hothorn T, Hornik K, Zeileis A (2006). “Unbiased Recursive Partitioning: A Conditional Inference Framework.” Journal of Computational and Graphical Statistics, 15(3), 651–674. https://cran.r-project.org/web/packages/party/index.html
+
+[22] 
 
 [23]
 
 [24]
 
-[]
+[25]
 
-[]
+[26]
+
+[27]
+
+[28]
   
 </p>
 <h1>
