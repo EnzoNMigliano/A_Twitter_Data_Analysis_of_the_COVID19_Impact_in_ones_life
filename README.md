@@ -107,11 +107,11 @@ A Twitter Data Analysis of the COVID-19 Impact in One's Life 🦠
 
 - The proportion of front line workers that transmited **anger throught the tweets in the first half of 2020 was significantly lower than before 2020 (p < 0.001)**
 
-- The proportion of front line workers that transmited sadness throught the tweets in the first half of 2020 was
+- The proportion of front line workers that transmited **sadness throught the tweets in the first half of 2020 was significantlylower than before 2020 (p < 0.001)**
 
-- The proportion of front line workers that transmited trust throught the tweets in the first half of 2020  was
+- The proportion of front line workers that transmited **negative emotions throught the tweets in the first half of 2020  was significantly lower than before 2020 (p < 0.001)***
 
-- The proportion of front line workers that transmited trust throught the tweets in the first half of 2020  was
+- The proportion of front line workers that transmited **positive emotions throught the tweets in the first half of 2020  was significantly lower than before 2020 (p < 0.001)***
 
 
 #### Comparison between before 2020 and the second half of 2020
