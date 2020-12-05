@@ -123,6 +123,7 @@ A Twitter Data Analysis of the COVID-19 Impact in One's Life 🦠
 - The proportion of front line workers that transmited trust throught the tweets in the first half of 2020  was
 
  <br/>
+ 
 ### Association Rules
 
 ### Decision Trees
