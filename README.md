@@ -31,7 +31,7 @@ A Twitter Data Analysis of the COVID-19 Impact in One's Life 🦠
 | [5] | tidyverse | [6] | corrplot | [7] | caTools | [8] | caret |
 | [9] | forecast | [10] | arules | [11] | arulesViz | [12] | lubridate |
 | [13] | stringr | [14] | tm | [15] | quanteda | [16] | reshape2 |
-| [17] | lda | [18] | syuzhet | [19] | wordcloud2 | [20] |  |
+| [17] | lda | [18] | syuzhet | [19] | wordcloud2 | [20] | RColorBrewer |
 | [21] | party | [22] | rpart | [23] | rpart.plot | [24] | e1071 |
 | [25] | rtweet  | [26] | RMySQL | [27] | odbc | [28] | DBI |
 |  |  | | | |  |  | |
@@ -215,23 +215,32 @@ References
 
 [19] 	Dawei Lang, Guan-tin Chien (2018). Wordcloud2: Create Word Cloud. https://cran.r-project.org/web/packages/wordcloud2/index.html.
 
-[20]
+[20] 	Erich Neuwirth (2014). RColorBrewer: ColorBrewer Palettes. https://cran.r-project.org/web/packages/RColorBrewer/index.html
+
 
 [21] Hothorn T, Hornik K, Zeileis A (2006). “Unbiased Recursive Partitioning: A Conditional Inference Framework.” Journal of Computational and Graphical Statistics, 15(3), 651–674. https://cran.r-project.org/web/packages/party/index.html
 
-[22]
+[22] 	Terry Therneau (2017). rpart: Recursive Partitioning and Regression Trees. https://cran.r-project.org/package=rpart
 
-[23]
 
-[24]
+[23] Stephen Milborrow (2017). rpart.plot: Plot 'rpart' Models: An Enhanced Version of 'plot.rpart'. https://cran.r-project.org/package=rpart.plot
 
-[25]
 
-[26]
+[24] David Meyer (2020) e1071: Misc Functions of the Department of Statistics, Probability Theory Group (Formerly: E1071), TU Wien
 
-[27]
 
-[28]
+[25] Kearney MW (2019). “rtweet: Collecting and analyzing Twitter data.” Journal of Open Source Software, 4(42), 1829. doi: 10.21105/joss.01829, R package version 0.7.0, https://joss.theoj.org/papers/10.21105/joss.01829.
+
+
+
+[26] 	Jeroen Ooms (2020) RMySQL: Database Interface and 'MySQL' Driver for R. Version 0.10.20. https://cran.r-project.org/package=RMySQL
+
+
+[27]	Jim Heste (2020) odbc: Connect to ODBC Compatible Databases (using the DBI Interface) https://cran.r-project.org/package=odbc
+ 
+
+[28] 	Kirill Mülle (2019) DBI: R Database Interface. https://cran.r-project.org/package=DBI
+
 
 </p>
 <h1>
