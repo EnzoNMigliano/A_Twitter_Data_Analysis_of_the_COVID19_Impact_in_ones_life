@@ -85,6 +85,43 @@ A Twitter Data Analysis of the COVID-19 Impact in One's Life 🦠
 <img src = "https://raw.githubusercontent.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/main/Images/Front%20Line%20Workers%20Before%202020%20-%20Sentment%20Frequency.jpeg">
 
 <img src = "https://raw.githubusercontent.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/main/Images/Front%20Line%20Workers%20Before%202020%20-%20Sentment%20Category.jpeg">
+
+### Front Line workers Tweets During the First Half of 2020
+
+
+###  Front Line workers Tweets During the Second Half of 2020
+
+
+
+### Results
+
+#### Comparison between before 2020 and the first half of 2020
+
+- The proportion of front line workers that transmited **trust throught the tweets in the first half of 2020 was significantly higher than before 2020 (p < 0.001)**
+
+- The proportion of front line workers that transmited **surprise throught the tweets in the first half of 2020 was significantly higher than before 2020 (p < 0.001)**
+
+- The proportion of front line workers that transmited **joy throught the tweets in the first half of 2020 was significantly higher than before 2020 (p < 0.001)**
+
+- The proportion of front line workers that transmited **fear throught the tweets in the first half of 2020 was significantly lower than before 2020 (p < 0.001)**
+
+- The proportion of front line workers that transmited **anger throught the tweets in the first half of 2020 was significantly lower than before 2020 (p < 0.001)**
+
+- The proportion of front line workers that transmited sadness throught the tweets in the first half of 2020 was
+
+- The proportion of front line workers that transmited trust throught the tweets in the first half of 2020  was
+
+- The proportion of front line workers that transmited trust throught the tweets in the first half of 2020  was
+
+
+#### Comparison between before 2020 and the second half of 2020
+
+- The proportion of front line workers that transmited trust throught the tweets in the first half of 2020  was
+
+#### Comparison between the first and the seconf half of 2020
+
+- The proportion of front line workers that transmited trust throught the tweets in the first half of 2020  was
+
  <br/>
 
 ### :syringe: What are the expectations of the Covid-19 vaccine?
