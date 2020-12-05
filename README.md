@@ -69,14 +69,14 @@ A Twitter Data Analysis of the COVID-19 Impact in One's Life 🦠
 
  <br/>
 
-### :hospital: How Covid-19 impacted the front line workers?
-
-### Method 
+### :hospital: How Covid-19 impacted the front line workers
  
  <br/>
 
 ### Sentment Analysis
+### Method 
 
+ <br/>
 
 ### Front Line Workers Tweets Before 2020
 
@@ -123,6 +123,11 @@ A Twitter Data Analysis of the COVID-19 Impact in One's Life 🦠
 - The proportion of front line workers that transmited trust throught the tweets in the first half of 2020  was
 
  <br/>
+### Association Rules
+
+### Decision Trees
+
+### Time Series Analysis
 
 ### :syringe: What are the expectations of the Covid-19 vaccine?
 
