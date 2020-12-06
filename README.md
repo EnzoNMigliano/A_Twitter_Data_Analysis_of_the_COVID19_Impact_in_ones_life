@@ -179,14 +179,47 @@ A Twitter Data Analysis of the COVID-19 Impact in One's Life 🦠
 - surprise
 - trust
 
-We assigned a 1 to each time the tweet mentioned any of these words and at the end substracted the negative words from the positive words to understand if the overall sentiment of the tweet was positive or negative.
+We assigned a 1 to each time the tweet mentioned any of these words and at the end substracted the negative words from the positive words to understand if the overall sentiment of the tweet was positive or negative. We'll call this analysis "Vaccine Analysis 1"
 
-<img src = "https://raw.githubusercontent.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/main/Images/vACCINE%20sENTIMENT.PNG">
+Also, we conducted a different type of analysis ("Vaccine Analysis 2") where we found the tweets that were Semantic Differencial Adjectives (Opposites from each Other) 
+- Semantic Differential Adjectives:
+
+- Excited vs Scared
+
+- Happy vs mad
+
+- Good vs Bad
+
+- Safe vs Dangerous 
+
+- Hopeful vs Hesitant
 
 ## Sentiment Analysis 
 
+# Vaccine Analysis 1
+
+In the following graphs, you can see visualizations for "Vaccine Analysis 1". You can see the sentences that include these words in their tweets. 
 <img src = "https://github.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/blob/main/Images/VaccineSentiment.PNG" >
- 
+
+In the next graph, you can see the difference between the positive and negative feelings in each of the sentences.
+<img src = "https://raw.githubusercontent.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/main/Images/vACCINE%20sENTIMENT.PNG">
+
+# Vaccine Analysis 2 
+
+In this visualizations, you'll see how the semantic differentials appear and compare to each other on the tweets.
+
+<img src ="https://raw.githubusercontent.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/main/Images/VaccinePositiveOnly.PNG">
+
+<img src ="https://raw.githubusercontent.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/main/Images/Negative%20Feelings%20Only.PNG">
+
+<img src ="">
+
+<img src ="">
+
+<img src ="">
+
+<img src ="">
+
 ## Conclusion
  
  
