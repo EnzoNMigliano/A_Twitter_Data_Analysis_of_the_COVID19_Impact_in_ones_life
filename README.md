@@ -71,13 +71,13 @@ A Twitter Data Analysis of the COVID-19 Impact in One's Life 🦠
  <br/>
 
 ### :hospital: How Covid-19 impacted the front line workers
- 
+
+### Time Series Analysis and Non-Linear Regression
+
+
+
  <br/>
-
-### Time Series Analysis
-
-
-
+ 
 ### Sentment Analysis
 ### Method 
 
@@ -131,8 +131,13 @@ A Twitter Data Analysis of the COVID-19 Impact in One's Life 🦠
  
 ### Association Rules
 
+
+ <br/>
+
 ### Decision Trees
 
+
+ <br/>
 
 ### :syringe: What are the expectations of the Covid-19 vaccine?
 
