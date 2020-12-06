@@ -16,9 +16,9 @@ A Twitter Data Analysis of the COVID-19 Impact in One's Life 🦠
 
 ## The Contributors for this Project
 
- - **Arianna Lupi** &ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(*@ariannalupi*) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- ST. Thomas University Carnival Cruise Lines School of Science
+ - **Arianna Lupi** &ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(*@ariannalupi*) &nbsp; &nbsp; &nbsp; &nbsp; - ST. Thomas University Carnival Cruise Lines School of Science
  
- - **Enzo Novi Migliano** &nbsp;&nbsp;(*@EnzoNMigliano*) &nbsp;&nbsp;- ST. Thomas University Carnival Cruise Lines School of Science
+ - **Enzo Novi Migliano** &nbsp;&nbsp;(*@EnzoNMigliano*) &nbsp;&nbsp; - ST. Thomas University Carnival Cruise Lines School of Science
  
  - **Raul Ramon** &ensp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (*@raulramon*) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - ST. Thomas University Carnival Cruise Lines School of Science
  
