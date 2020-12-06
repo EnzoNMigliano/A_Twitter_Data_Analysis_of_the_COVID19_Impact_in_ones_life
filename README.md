@@ -194,9 +194,9 @@ Also, we conducted a different type of analysis ("Vaccine Analysis 2") where we 
 
 - Hopeful vs Hesitant
 
-## Sentiment Analysis 
+### Sentiment Analysis 
 
-# Vaccine Analysis 1
+### Vaccine Analysis 1
 
 In the following graphs, you can see visualizations for "Vaccine Analysis 1". You can see the sentences that include these words in their tweets. 
 <img src = "https://github.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/blob/main/Images/VaccineSentiment.PNG" >
@@ -204,7 +204,7 @@ In the following graphs, you can see visualizations for "Vaccine Analysis 1". Yo
 In the next graph, you can see the difference between the positive and negative feelings in each of the sentences.
 <img src = "https://raw.githubusercontent.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/main/Images/vACCINE%20sENTIMENT.PNG">
 
-# Vaccine Analysis 2 
+### Vaccine Analysis 2 
 
 In this visualizations, you'll see how the semantic differentials appear and compare to each other on the tweets.
 
@@ -212,13 +212,21 @@ In this visualizations, you'll see how the semantic differentials appear and com
 
 <img src ="https://raw.githubusercontent.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/main/Images/Negative%20Feelings%20Only.PNG">
 
-<img src ="">
+### Negative vs Positive Feelings
+<img src ="https://raw.githubusercontent.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/main/Images/PositivevsNegative.PNG">
 
-<img src ="">
+### Naive Bayes Model
 
-<img src ="">
+- We conducted a Naive Bayes Model to see if given the user feelings, will the tweet have a positive negative sentiment?
 
-<img src ="">
+- The accurracy of this model was 0.5
+
+### Non Linear Regression (Loess Method)
+
+
+<img src ="https://raw.githubusercontent.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/main/Images/Loess%20Model.PNG">
+
+
 
 ## Conclusion
  
