@@ -74,6 +74,18 @@ A Twitter Data Analysis of the COVID-19 Impact in One's Life 🦠
 
 ### Time Series Analysis and Non-Linear Regression
 
+<img src = "https://raw.githubusercontent.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/main/Images/Time%20series%20tweets%20dec.jpeg">
+
+<img src = "https://raw.githubusercontent.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/main/Images/Time%20series%20tweets%20pred.jpeg">
+
+<img src = "https://raw.githubusercontent.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/main/Images/Time%20series%20accounts%20dec.jpeg">
+
+<img src = "https://raw.githubusercontent.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/main/Images/Time%20series%20accounts%20pred.jpeg">
+
+<img src = "https://raw.githubusercontent.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/main/Images/pairs%20account%20tweets.jpeg">
+
+<img src = "https://raw.githubusercontent.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/main/Images/loess.jpeg">
+
 
 
  <br/>
