@@ -183,9 +183,9 @@ We assigned a 1 to each time the tweet mentioned any of these words and at the e
 
 <img src = "https://raw.githubusercontent.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/main/Images/vACCINE%20sENTIMENT.PNG">
 
+## Sentiment Analysis 
 
- <br/>
- <br/>
+<img src = "https://github.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/blob/main/Images/VaccineSentiment.PNG" >
  
 ## Conclusion
  
