@@ -74,6 +74,10 @@ A Twitter Data Analysis of the COVID-19 Impact in One's Life 🦠
  
  <br/>
 
+### Time Series Analysis
+
+
+
 ### Sentment Analysis
 ### Method 
 
@@ -129,7 +133,6 @@ A Twitter Data Analysis of the COVID-19 Impact in One's Life 🦠
 
 ### Decision Trees
 
-### Time Series Analysis
 
 ### :syringe: What are the expectations of the Covid-19 vaccine?
 
