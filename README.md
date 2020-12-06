@@ -136,6 +136,25 @@ A Twitter Data Analysis of the COVID-19 Impact in One's Life 🦠
 
 ### :syringe: What are the expectations of the Covid-19 vaccine?
 
+- To create a sentiment analysis, we retrieved the emotions that were related to the COVID vaccine. We retrieved more than 18,000 tweets that included the word vaccine and #vaccine in the text. We later made a count of these words in each of the tweet phrases:
+
+- anger
+-anticipation
+- disgust
+- fear
+- joy
+-sadness
+- surprise
+- fear
+- joy
+- sadness
+- surprise
+- trust
+
+We assigned a 1 to each time the tweet mentioned any of these words and at the end substracted the negative words from the positive words to understand if the overall sentiment of the tweet was positive or negative.
+
+<img src = ">
+
 
  <br/>
  <br/>
