@@ -153,7 +153,7 @@ A Twitter Data Analysis of the COVID-19 Impact in One's Life 🦠
 
 We assigned a 1 to each time the tweet mentioned any of these words and at the end substracted the negative words from the positive words to understand if the overall sentiment of the tweet was positive or negative.
 
-<img src = ">
+<img src = "https://raw.githubusercontent.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/main/Images/vACCINE%20sENTIMENT.PNG">
 
 
  <br/>
