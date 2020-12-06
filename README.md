@@ -66,13 +66,18 @@ A Twitter Data Analysis of the COVID-19 Impact in One's Life 🦠
   
   
 ### :heavy_check_mark: How Covid-19 impacted the people who were infected and/or tested positive for the disease?
-
+&nbsp; &nbsp; In other to shown how relevent Twiiter is as a platform, in special during the pandemic 
 
  <br/>
 
 ### :hospital: How Covid-19 impacted the front line workers
+nbsp; &nbsp; Our Team collected a sample of 993 tweets in the month of Octuber of 2020. The Tweets were gathered using the folloging expressions, contained in the R code below, as search querries: <code>testingFilter <- search_tweets(q = "\"I am a nurse\" OR \"I am a doctor\" OR \"I am a caregiver\" OR \"I am a nursing home caregiver\" OR \"I am a nursing home worker\" OR \"I work at a hospital\" OR \"I work at a nursing home\" OR \"I work at the medical field\" AND -filter:verified",
+  n = 10, include_rts = FALSE)</code>. The objective of the search querries was to find the Twitter users that are front line workers. Thereafter, we extracted the timelines of those users up to 400 tweets back in time. Both datasets, the initial search querry and the data set with all the timelines were the base for most of the analysis about the impact of covid in the frontline workers. If you wish to see the source code for the data colection access the "Script" folder in the GitHub page. In other to shown how relevent Twiiter is as a platform, in special during the pandemic 
+
 
 ### Time Series Analysis and Non-Linear Regression
+nbsp; &nbsp; In other to shown how relevent Twiiter is as a platform, in special during the pandemic 
+
 
 <img src = "https://raw.githubusercontent.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/main/Images/Time%20series%20tweets%20dec.jpeg">
 
