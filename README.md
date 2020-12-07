@@ -134,7 +134,7 @@ NRC Word-Emotion Association Lexicon from the package syuzhet[18]. The package u
 
 
 ### Results
-&nbsp; &nbsp; In other to analyse if there significant changes in how the front line expressed themselves in Twitter, our team peerformed a proportion test.
+&nbsp; &nbsp; In other to analyse if there significant changes in how the front line expressed themselves in Twitter, our team peerformed a serie of proportion tests.
 #### Comparison between before 2020 and the first half of 2020
 
 - The proportion of front line workers that transmited **trust, surprise, joy and positive emotions throught the tweets in the first half of 2020 was significantly higher than before 2020 (p < 0.001)**
