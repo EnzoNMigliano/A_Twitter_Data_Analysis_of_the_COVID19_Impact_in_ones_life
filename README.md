@@ -171,11 +171,13 @@ NRC Word-Emotion Association Lexicon from the package syuzhet[18]. The package u
 
 - The proportion of front line workers that transmited **fear, disgust, sadness, and joy throught the tweets in the first half of 2020 was significantly lower than before 2020 (p < 0.001)**
 
+
 #### Comparison between the first and the seconf half of 2020
 
 - The proportion of front line workers that transmited **disgust, surprise, anger, and sadness throught the tweets in the of the second half 2020 was significant higher than the tweets first half of 2020 (p < 0.001)**
 
 - The proportion of front line workers that transmited **trust, joy, surprise, antecipation, engative, and positive throught the tweets in the second half of 2020 was significant lower than the tweets of first half of 2020 (p < 0.001)**
+
 
  <br/>
 
@@ -226,14 +228,55 @@ NRC Word-Emotion Association Lexicon from the package syuzhet[18]. The package u
 - surprise
 - trust
 
-We assigned a 1 to each time the tweet mentioned any of these words and at the end substracted the negative words from the positive words to understand if the overall sentiment of the tweet was positive or negative.
+We assigned a 1 to each time the tweet mentioned any of these words and at the end substracted the negative words from the positive words to understand if the overall sentiment of the tweet was positive or negative. We'll call this analysis "Vaccine Analysis 1"
 
+Also, we conducted a different type of analysis ("Vaccine Analysis 2") where we found the tweets that were Semantic Differencial Adjectives (Opposites from each Other) 
+- Semantic Differential Adjectives:
+
+- Excited vs Scared
+
+- Happy vs mad
+
+- Good vs Bad
+
+- Safe vs Dangerous 
+
+- Hopeful vs Hesitant
+
+### Sentiment Analysis 
+
+### Vaccine Analysis 1
+
+In the following graphs, you can see visualizations for "Vaccine Analysis 1". You can see the sentences that include these words in their tweets. 
+<img src = "https://github.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/blob/main/Images/VaccineSentiment.PNG" >
+
+In the next graph, you can see the difference between the positive and negative feelings in each of the sentences.
 <img src = "https://raw.githubusercontent.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/main/Images/vACCINE%20sENTIMENT.PNG">
 
+### Vaccine Analysis 2 
 
- <br/>
- <br/>
- 
+In this visualizations, you'll see how the semantic differentials appear and compare to each other on the tweets.
+
+<img src ="https://raw.githubusercontent.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/main/Images/VaccinePositiveOnly.PNG">
+
+<img src ="https://raw.githubusercontent.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/main/Images/Negative%20Feelings%20Only.PNG">
+
+### Negative vs Positive Feelings
+<img src ="https://raw.githubusercontent.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/main/Images/PositivevsNegative.PNG">
+
+### Naive Bayes Model
+
+- We conducted a Naive Bayes Model to see if given the user feelings, will the tweet have a positive negative sentiment?
+
+- The accurracy of this model was 0.5
+
+### Non Linear Regression (Loess Method)
+
+
+<img src ="https://raw.githubusercontent.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/main/Images/Loess%20Model.PNG">
+
+
+
 ## Conclusion
  
  
