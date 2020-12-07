@@ -66,8 +66,9 @@ A Twitter Data Analysis of the COVID-19 Impact in One's Life 🦠
   
   
 ### :heavy_check_mark: How Covid-19 impacted the people who were infected and/or tested positive for the disease?
-&nbsp; &nbsp; In other to shown how relevent Twiiter is as a platform, in special during the pandemic 
 
+
+ <br/>
  <br/>
 
 ### :hospital: How Covid-19 impacted the front line workers
@@ -155,6 +156,7 @@ A Twitter Data Analysis of the COVID-19 Impact in One's Life 🦠
  <br/>
  
 ### Association Rules
+&nbsp; &nbsp; Our team not only interested in the sentiments that would be transmitted through the Twitter from the front line workers, but also interested in the words that the front line workers would speak, in specific in the context of mentioning themselves. Therefore, in other to perform the association rules, our team utilized the first data set of 993 observations were the Twitter users clearly sstated that they were front line workers. The following graphs are ordered respectively by the 5, 10 and 20 words with the most expressive lifts. Our team utilized as threashold <code>*0.1 of lift and 0.5 of confidence that resulted in more than 200000 association rules*</code>
 
 <img src = "https://raw.githubusercontent.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/main/Images/lift%205%20Association.jpeg">
 
@@ -169,10 +171,6 @@ A Twitter Data Analysis of the COVID-19 Impact in One's Life 🦠
 <img src = "https://raw.githubusercontent.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/main/Images/lift%2020%20Association%20Graph.jpeg">
 
  <br/>
-
-### Decision Trees
-
-
  <br/>
 
 ### :syringe: What are the expectations of the Covid-19 vaccine?
