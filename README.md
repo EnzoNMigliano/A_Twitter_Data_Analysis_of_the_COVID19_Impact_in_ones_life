@@ -106,6 +106,14 @@ A Twitter Data Analysis of the COVID-19 Impact in One's Life 🦠
  
 ### Sentment Analysis
 ### Method 
+&nbsp; &nbsp; In other to imterpret what the front line workers were saying in their tweets, our team utilized codes to remove pontuaction, stop words of the english language(e.g., the), get the word stream (e.g., workers, working and worked were transformed in work), and to transform all the words in lowercase so the analysis could be done in the general idea rather than the specific massege of the tweet. Also, after performing all the transformations in the tweets, our team utilized the 
+NRC Word-Emotion Association Lexicon from the package syuzhet[18]. The package utilizes a crowdsource dictionary were people assigned several thousands of words to different feeings and emotions. The package utilizes those classifed words as references and classify the words from the tweets to the following categories:
+
+
+ | Sentiment | Emotion | Emotion | Emotion | Emotion |
+| --- | --- | --- |--- | --- |
+| Positive | Trust | Joy | Antecipation | Surprise | 
+| Negative | Sadness | Disgust | Anger | fear | 
 
  <br/>
 
@@ -125,24 +133,13 @@ A Twitter Data Analysis of the COVID-19 Impact in One's Life 🦠
 
 
 ### Results
-
+&nbsp; &nbsp; In other to analyse if there significant changes in how the front line expressed themselves in Twitter, our team peerformed a proportion test.
 #### Comparison between before 2020 and the first half of 2020
 
-- The proportion of front line workers that transmited **trust throught the tweets in the first half of 2020 was significantly higher than before 2020 (p < 0.001)**
+- The proportion of front line workers that transmited **trust, surprise, joy and positive emotions throught the tweets in the first half of 2020 was significantly higher than before 2020 (p < 0.001)**
 
-- The proportion of front line workers that transmited **surprise throught the tweets in the first half of 2020 was significantly higher than before 2020 (p < 0.001)**
 
-- The proportion of front line workers that transmited **joy throught the tweets in the first half of 2020 was significantly higher than before 2020 (p < 0.001)**
-
-- The proportion of front line workers that transmited **fear throught the tweets in the first half of 2020 was significantly lower than before 2020 (p < 0.001)**
-
-- The proportion of front line workers that transmited **anger throught the tweets in the first half of 2020 was significantly lower than before 2020 (p < 0.001)**
-
-- The proportion of front line workers that transmited **sadness throught the tweets in the first half of 2020 was significantlylower than before 2020 (p < 0.001)**
-
-- The proportion of front line workers that transmited **negative emotions throught the tweets in the first half of 2020  was significantly lower than before 2020 (p < 0.001)**
-
-- The proportion of front line workers that transmited **positive emotions throught the tweets in the first half of 2020  was significantly higher than before 2020 (p < 0.001)**
+- The proportion of front line workers that transmited **fear, anger, sadness, and negative throught the tweets in the first half of 2020 was significantly lower than before 2020 (p < 0.001)**
 
 
 #### Comparison between before 2020 and the second half of 2020
