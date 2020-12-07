@@ -181,20 +181,12 @@ NRC Word-Emotion Association Lexicon from the package syuzhet[18]. The package u
 
 #### Comparisons within a period
 
-##### Before 2020
-- The proportion of front line workers that transmited **trust, surprise, anger, and positive throught the tweets in the second half 2020 was significant higher than the tweets before 2020 (p < 0.001)**
+##### Negative VS Positive
+- The proportion of front line workers that transmited **negative sentiments throught the tweets was significantly lower than positive sentiments in all periods(p < 0.001)**
 
-- The proportion of front line workers that transmited **fear, disgust, sadness, and joy throught the tweets in the first half of 2020 was significantly lower than before 2020 (p < 0.001)**
 
-##### First half of 2020
-- The proportion of front line workers that transmited **trust, surprise, anger, and positive throught the tweets in the second half 2020 was significant higher than the tweets before 2020 (p < 0.001)**
-
-- The proportion of front line workers that transmited **fear, disgust, sadness, and joy throught the tweets in the first half of 2020 was significantly lower than before 2020 (p < 0.001)**
-
-##### Second half of 2020
-- The proportion of front line workers that transmited **trust, surprise, anger, and positive throught the tweets in the second half 2020 was significant higher than the tweets before 2020 (p < 0.001)**
-
-- The proportion of front line workers that transmited **fear, disgust, sadness, and joy throught the tweets in the first half of 2020 was significantly lower than before 2020 (p < 0.001)**
+##### Sadness vs Joy
+- The proportion of front line workers that transmited **sadness throught the tweets was significantly lower than joy sentiments in all periods(p < 0.001)**
 
 
  <br/>
