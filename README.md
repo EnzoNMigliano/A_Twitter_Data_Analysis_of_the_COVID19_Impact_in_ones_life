@@ -79,23 +79,23 @@ A Twitter Data Analysis of the COVID-19 Impact in One's Life 🦠
   
 > "@MileyCyrus @CashApp $lissamc1123 **I work at a nursing home** and it’s so **hard during covid**, we’ve been in **lockdown for almost 9 months**, I’m getting so **burnt out** and this would mean so much🖤 https://t.co/ZV7Q14rqfZ"
 >
-> - Front Line Worker
+> ('--- Front Line Worker')
 
 
 > "@IlluminatiEyes **I am a nurse who left the ICU** four years ago to get away from the stress. I am **back working in ICU due to covid**. So far we have had to create an additional 20 ICU beds, rent equipment, and pull staff from other areas. These are the **sickest patients that I have seen in almost 20 y**""
 >
-> - Front Line Worker
+> ('--- Front Line Worker')
 
  <br/>
 
 > "**I am grateful** for Mrs Ruth Khoza and Dr Thulani Khoza of #Ulundi , South Africa for paying my registration fee to #medicalschool. **I am forever #grateful**. Today **I am a doctor** because they planted a seed, **they believed in me**. **Believe in someone**, \n\nhttps://t.co/EAlvQbFO5p"
 >
->  - Front Line Worker
+>  ('--- Front Line Worker')
 
 
 > "❤❤❤❤\n\n**I am a nurse and educator**. These times have been hard for everyone. For me, I worry for those who are ill and those who are not. Will we be able to **keep ppl  healthy?** Will we be able to care for them all?\n\n**I am SO proud** we have a leader who cares about people's lives. 🙏🏼 https://t.co/J3fnVamXpB"
 >
->  - Front Line Worker
+>  ('--- Front Line Worker')
 
 
 ### Time Series Analysis and Non-Linear Regression
