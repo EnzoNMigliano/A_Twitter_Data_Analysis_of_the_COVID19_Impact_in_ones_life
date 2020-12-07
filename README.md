@@ -109,14 +109,12 @@ A Twitter Data Analysis of the COVID-19 Impact in One's Life 🦠
 &nbsp; &nbsp; In other to imterpret what the front line workers were saying in their tweets, our team utilized codes to remove pontuaction, stop words of the english language(e.g., the), get the word stream (e.g., workers, working and worked were transformed in work), and to transform all the words in lowercase so the analysis could be done in the general idea rather than the specific massege of the tweet. Also, after performing all the transformations in the tweets, our team utilized the 
 NRC Word-Emotion Association Lexicon from the package syuzhet[18]. The package utilizes a crowdsource dictionary were people assigned several thousands of words to different feeings and emotions. The package utilizes those classifed words as references and classify the words from the tweets to the following categories:
 
-<p align="center">
-   <br/>
- | Sentiment | Emotion | Emotion | Emotion | Emotion |
-| --- | --- | --- |--- | --- |
-| Positive | Trust | Joy | Antecipation | Surprise | 
-| Negative | Sadness | Disgust | Anger | fear | 
- <br/>
-</p>
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Sentiment | Emotion | Emotion | Emotion | Emotion |
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | --- | --- | --- |--- | --- |
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Positive | Trust | Joy | Antecipation | Surprise | 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Negative | Sadness | Disgust | Anger | fear | 
+
 
  <br/>
 
