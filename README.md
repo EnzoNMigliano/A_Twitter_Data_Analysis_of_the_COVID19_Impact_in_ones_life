@@ -153,6 +153,7 @@ NRC Word-Emotion Association Lexicon from the package syuzhet[18]. The package u
 ###  Front Line workers Tweets During the Second Half of 2020
 
 
+ <br/>
 
 ### Results
 &nbsp; &nbsp; In other to analyse if there significant changes in how the front line expressed themselves in Twitter, our team peerformed a serie of proportion tests.
@@ -166,16 +167,40 @@ NRC Word-Emotion Association Lexicon from the package syuzhet[18]. The package u
 
 #### Comparison between before 2020 and the second half of 2020
 
-- The proportion of front line workers that transmited trust throught the tweets in the first half of 2020  was
+- The proportion of front line workers that transmited **trust, surprise, anger, and positive throught the tweets in the second half 2020 was significant higher than the tweets before 2020 (p < 0.001)**
+
+- The proportion of front line workers that transmited **fear, disgust, sadness, and joy throught the tweets in the first half of 2020 was significantly lower than before 2020 (p < 0.001)**
 
 #### Comparison between the first and the seconf half of 2020
 
-- The proportion of front line workers that transmited trust throught the tweets in the first half of 2020  was
+- The proportion of front line workers that transmited **disgust, surprise, anger, and sadness throught the tweets in the of the second half 2020 was significant higher than the tweets first half of 2020 (p < 0.001)**
+
+- The proportion of front line workers that transmited **trust, joy, surprise, antecipation, engative, and positive throught the tweets in the second half of 2020 was significant lower than the tweets of first half of 2020 (p < 0.001)**
+
+ <br/>
+
+#### Comparisons within a period
+
+##### Before 2020
+- The proportion of front line workers that transmited **trust, surprise, anger, and positive throught the tweets in the second half 2020 was significant higher than the tweets before 2020 (p < 0.001)**
+
+- The proportion of front line workers that transmited **fear, disgust, sadness, and joy throught the tweets in the first half of 2020 was significantly lower than before 2020 (p < 0.001)**
+
+##### First half of 2020
+- The proportion of front line workers that transmited **trust, surprise, anger, and positive throught the tweets in the second half 2020 was significant higher than the tweets before 2020 (p < 0.001)**
+
+- The proportion of front line workers that transmited **fear, disgust, sadness, and joy throught the tweets in the first half of 2020 was significantly lower than before 2020 (p < 0.001)**
+
+##### Second half of 2020
+- The proportion of front line workers that transmited **trust, surprise, anger, and positive throught the tweets in the second half 2020 was significant higher than the tweets before 2020 (p < 0.001)**
+
+- The proportion of front line workers that transmited **fear, disgust, sadness, and joy throught the tweets in the first half of 2020 was significantly lower than before 2020 (p < 0.001)**
+
 
  <br/>
  
 ### Association Rules
-&nbsp; &nbsp; Our team not only interested in the sentiments that would be transmitted through the Twitter from the front line workers, but also interested in the words that the front line workers would speak, in specific in the context of mentioning themselves. Therefore, in other to perform the association rules, our team utilized the first data set of 993 observations were the Twitter users clearly sstated that they were front line workers. The following graphs are ordered respectively by the 5, 10 and 20 words with the most expressive lifts. Our team utilized as threashold <code>*0.1 of lift and 0.5 of confidence that resulted in more than 200000 association rules*</code>
+&nbsp; &nbsp; Our team not only interested in the sentiments that would be transmitted through the Twitter from the front line workers, but also interested in the words that the front line workers would speak, in specific in the context of mentioning themselves. Therefore, in other to perform the association rules, our team utilized the first data set of 993 observations were the Twitter users clearly sstated that they were front line workers. The following graphs are ordered respectively by the 5, 10 and 20 words with the most expressive lifts. Our team utilized as threashold <code>*0.01 of aupport and 0.5 of confidence that resulted in more than 200000 association rules*</code>
 
 <img src = "https://raw.githubusercontent.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/main/Images/lift%205%20Association.jpeg">
 
