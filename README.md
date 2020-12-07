@@ -110,10 +110,10 @@ A Twitter Data Analysis of the COVID-19 Impact in One's Life 🦠
 NRC Word-Emotion Association Lexicon from the package syuzhet[18]. The package utilizes a crowdsource dictionary were people assigned several thousands of words to different feeings and emotions. The package utilizes those classifed words as references and classify the words from the tweets to the following categories:
 
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Sentiment | Emotion | Emotion | Emotion | Emotion |
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | --- | --- | --- |--- | --- |
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Positive | Trust | Joy | Antecipation | Surprise | 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Negative | Sadness | Disgust | Anger | fear | 
+| Sentiment | Emotion | Emotion | Emotion | Emotion |
+| --- | --- | --- |--- | --- |
+| Positive | Trust | Joy | Antecipation | Surprise | 
+| Negative | Sadness | Disgust | Anger | fear | 
 
 
  <br/>
