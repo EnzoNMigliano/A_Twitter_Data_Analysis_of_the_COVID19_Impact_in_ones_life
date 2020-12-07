@@ -86,7 +86,6 @@ A Twitter Data Analysis of the COVID-19 Impact in One's Life 🦠
 >
 
 
- <br/>
 
 > "**I am grateful** for Mrs Ruth Khoza and Dr Thulani Khoza of #Ulundi , South Africa for paying my registration fee to #medicalschool. **I am forever #grateful**. Today **I am a doctor** because they planted a seed, **they believed in me**. **Believe in someone**, \n\nhttps://t.co/EAlvQbFO5p"
 >
