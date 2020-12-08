@@ -51,7 +51,7 @@ A Twitter Data Analysis of the COVID-19 Impact in One's Life 🦠
   
   ### Past Research 
 
-&nbsp; &nbsp; Despite the fact that the pandemic is fairly recent in our society, some research has been done in regards of the impact of COVID-19 in people's lives. The pandemic has been analyzed, however, in a large spectrun, in other words, in many studies the COVID-19 overral effect in society was the main porpuse. The results of such studies are great to understand the impact of COVID-19 as a whole, for  example, according to Chakraborty et al.[29] people majorly tweeted positive messages regarding COVID-19, but re-tweeted the negative tweets. 
+&nbsp; &nbsp; Despite the fact that the pandemic is fairly recent in our society, some research has been done in regards of the impact of COVID-19 in people's lives. The pandemic has been analyzed, however, in a large spectrun, in other words, in many studies the COVID-19 overral effect in society was the main porpuse. The results of such studies are great to understand the impact of COVID-19 as a whole, for  example, according to Chakraborty et al.[29] people majorly tweeted positive messages regarding COVID-19, but re-tweeted the negative tweets, but are limited in the insights of COVID's impact to specific groups or in a individual level.  
 
 
 - Global Sentiment Analysis Of COVID-19 Tweets Over Time 
