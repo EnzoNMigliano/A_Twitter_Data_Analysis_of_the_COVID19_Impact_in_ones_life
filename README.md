@@ -159,7 +159,25 @@ NRC Word-Emotion Association Lexicon from the package syuzhet[18]. The package u
 
 ### Front Line Workers Tweets Before 2020
 
+**500 more frequent words**
+
 <img src = "https://raw.githubusercontent.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/main/Images/Word%20clould%20before%202020%20500.jpeg">
+
+**Top 10 Words**
+
+| Word | Frequency |
+| --- | --- |
+| new | 3120 | 
+| year | 2573 |
+| one  | 2455 |
+| say | 2215 |
+| us | 2158 |
+| can | 1927 |
+| poepl | 1919 |
+| get | 1867 |
+| like | 1853 |
+| $ | 1849 |
+
 
 <img src = "https://raw.githubusercontent.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/main/Images/Front%20Line%20Workers%20Before%202020%20-%20Sentment%20Frequency.jpeg">
 
@@ -168,8 +186,35 @@ NRC Word-Emotion Association Lexicon from the package syuzhet[18]. The package u
 ### Front Line workers Tweets During the First Half of 2020
 
 
+
+| Word | Frequency |
+| --- | --- |
+| new |  | 
+| year |  |
+| one  |  |
+| say |  |
+| us |  |
+| can |  |
+| poepl |  |
+| get |  |
+| like |  |
+| $ |  |
+
 ###  Front Line workers Tweets During the Second Half of 2020
 
+
+| Word | Frequency |
+| --- | --- |
+| new |  | 
+| year |  |
+| one  |  |
+| say |  |
+| us |  |
+| can |  |
+| poepl |  |
+| get |  |
+| like |  |
+| $ |  |
 
  <br/>
 
