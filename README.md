@@ -10,7 +10,7 @@ A Twitter Data Analysis of the COVID-19 Impact in One's Life 🦠
 </p>
 </h1>
 
-&nbsp; &nbsp; Under the broad research question: <code> **What are the impacts of COVID-19 in one's life?** </code> Our team collected Twitter data to answer research hypothesis, producing models, and have a better understanding of the factors that influence one's reaction to the global pandemic. Our team collected more than 300 thousand tweets raging from 2009 to November of 2020. We utilized the open source software R [1] and the Rstudio [2] in order to gather the tweets and perform the different statistical analysis. We also utilized Git [3] and GitHub [4] to organize and share our project with the community. If you wish to check the coding behind all the statistical models and ohter relavant topics of the project, please access the folder named "Scripts". If you wish to have access to the graphs genarated throughout our project, please acess the folder named "Images".
+&nbsp; &nbsp; Under the broad research question: <code> **What are the impacts of COVID-19 in one's life?** </code> Our team collected Twitter data to answer research hypothesis, producing models, and have a better understanding of the factors that influence one's reaction to the global pandemic. Our team collected more than 300 thousand tweets ranging from 2009 to November of 2020. We utilized the open source software R [1] and the Rstudio [2] in order to gather the tweets and perform the different statistical analysis. We also utilized Git [3] and GitHub [4] to organize and share our project with the community. If you wish to check the coding behind all the statistical models and ohter relavant topics of the project, please access the folder named "Scripts". If you wish to have access to the graphs generated throughout our project, please acess the folder named "Images".
 
  <br/>
 
@@ -25,7 +25,7 @@ A Twitter Data Analysis of the COVID-19 Impact in One's Life 🦠
  <br/>
  
   ## R Packages Utilized
- In other to perform all the statistical analysis and gather the data from twitter we utilized several packages:
+ In other to perform all the statistical analysis and gather the data from Twitter we utilized several packages:
  |  | Package Name | | Package Name |  | Package Name | | Package Name |
 | --- | --- | --- |--- | --- | --- | --- |--- |
 | [5] | tidyverse | [6] | corrplot | [7] | caTools | [8] | caret |
@@ -47,11 +47,11 @@ A Twitter Data Analysis of the COVID-19 Impact in One's Life 🦠
 &nbsp; &nbsp; COVID has affected every aspect of our lives, the way we gather, work, communicate, relate, and live. Even though we are seeing some improvements and we are slowly starting to see things go back to normal this pandemic has definitely taken a toll on everyone's physical and mental health. 
   
   ### Motivation
-  &nbsp; &nbsp; Our motivation for this Project is to understand how people are currently feeling around COVID and what's their state of mind during the pandemic, in specific for the front line workers, people who tested positive for COVID-19, and people's affectss towards the vacine.  
+  &nbsp; &nbsp; Our motivation for this Project is to understand how people are currently feeling around COVID and what's their state of mind during the pandemic, in specific for the front line workers, people who tested positive for COVID-19, and people's affects towards the vacine.  
   
   ### Past Research 
 
-&nbsp; &nbsp; Despite the fact that the pandemic is fairly recent in our society, some research has been done in regards of the impact of COVID-19 in people's lives. The pandemic has been analyzed, however, in a large spectrun, in other words, in many studies the COVID-19 overral effect in society was the main porpuse. The results of such studies are great to understand the impact of COVID-19 as a whole, for  example, according to Chakraborty et al.[29] people majorly tweeted positive messages regarding COVID-19, but re-tweeted the negative tweets, but are limited in the insights of COVID's impact to specific groups or in a individual level.  
+&nbsp; &nbsp; Despite the fact that the pandemic is fairly recent in our society, some research has been done in regards of the impact of COVID-19 in people's lives. The pandemic has been analyzed, however, in a large spectrun, in other words, in many studies the COVID-19 overral effect in society was the main porpuse. The results of such studies are great to understand the impact of COVID-19 as a whole, for  example, according to Chakraborty et al.[29] people majorly tweeted positive messages regarding COVID-19, but re-tweeted the negative tweets. 
 
 
 - Global Sentiment Analysis Of COVID-19 Tweets Over Time 
@@ -78,7 +78,7 @@ https://www.mdpi.com/2078-2489/11/6/314/htm
  <br/> 
  
  ## Research Questions
-&nbsp; &nbsp; Covid-19 impacted the life of many, as several people got infect with the disease or even passed away. The scope of the consequences that pandemic brought to society is huge, therefore, the present project approached, under the theme Covid-19 impact in one's life, three major research questions:
+&nbsp; &nbsp; Covid-19 impacted the life of many, as several people got infected with the disease or even passed away. The scope of the consequences that pandemic brought to society is huge, therefore, the present project approached, under the theme Covid-19 impact in one's life, three major research questions:
   
   
 ### :heavy_check_mark: How Covid-19 impacted the people who were infected and/or tested positive for the disease?
@@ -88,8 +88,8 @@ https://www.mdpi.com/2078-2489/11/6/314/htm
  <br/>
 
 ### :hospital: How Covid-19 impacted the front line workers
-&nbsp; &nbsp; Our Team collected a sample of 993 tweets in the month of October of 2020. The Tweets were gathered using the folloging expressions, contained in the following R code, as search querries: <code> **testingFilter <- search_tweets(q = "\"I am a nurse\" OR \"I am a doctor\" OR \"I am a caregiver\" OR \"I am a nursing home caregiver\" OR \"I am a nursing home worker\" OR \"I work at a hospital\" OR \"I work at a nursing home\" OR \"I work at the medical field\" AND -filter:verified",
-  n = 10, include_rts = FALSE)**</code>. The objective of the search querries was to find the Twitter users that are front line workers. Thereafter, we extracted the timelines of those users up to 400 tweets back in time. Both datasets, the initial search querry and the data set with all the timelines were the base for most of the analysis about the impact of covid in the frontline workers. If you wish to see the source code for the data colection access the "Scripts" folder in the GitHub page, hte initial search that resulted from the search querry is listed in teh folder called "Data". 
+&nbsp; &nbsp; Our Team collected a sample of 993 tweets in the month of October of 2020. The Tweets were gathered using the following expressions, contained in the following R code, as search querries: <code> **testingFilter <- search_tweets(q = "\"I am a nurse\" OR \"I am a doctor\" OR \"I am a caregiver\" OR \"I am a nursing home caregiver\" OR \"I am a nursing home worker\" OR \"I work at a hospital\" OR \"I work at a nursing home\" OR \"I work at the medical field\" AND -filter:verified",
+  n = 10, include_rts = FALSE)**</code>. The objective of the search querries was to find the Twitter users that are front line workers. Thereafter, we extracted the timelines of those users up to 400 tweets back in time. Both datasets, the initial search querry and the data set with all the timelines were the base for most of the analysis about the impact of Covid in the frontline workers. If you wish to see the source code for the data colection access the "Scripts" folder in the GitHub page, the initial search that resulted from the search querry is listed in the folder called "Data". 
   
  **Here are some sample tweets from the original 993 tweets extracted from the front line workers:** 
   
@@ -114,14 +114,14 @@ https://www.mdpi.com/2078-2489/11/6/314/htm
 
 
 ### Time Series Analysis and Non-Linear Regression
-&nbsp; &nbsp; In order to show how relevent Twiiter is as a platform for the front line workers to express thenselves, in special during the pandemic, our team deleloped a time series analysis for the tweets that we gathered. The first time series analysis was about the ammount of tweets tweeeted, starting from the oldest tweet we gathered up to the newest one. Followed by a forecast for the next 6 months. 
+&nbsp; &nbsp; In order to show how relevent Twiiter is as a platform for the front line workers to express themselves, in special during the pandemic, our team developed a time series analysis for the tweets that we gathered. The first time series analysis was about the ammount of tweets tweeeted, starting from the oldest tweet we gathered up to the newest one. Followed by a forecast for the next 6 months. 
 
 <img src = "https://raw.githubusercontent.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/main/Images/Time%20series%20tweets%20dec.jpeg">
 
 <img src = "https://raw.githubusercontent.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/main/Images/Time%20series%20tweets%20pred.jpeg">
 
 
-&nbsp; &nbsp; This time series analysis is evenmore insithful than the previous ones. The time series takes into account the number of accounts created over the time. Followed by a forecast of the next 6 months. As we can observe in the year of 2020 there was a boom of accounts created among the fron line workers.
+&nbsp; &nbsp; This time series analysis is even more insightful than the previous ones. The time series takes into account the number of accounts created over the time. Followed by a forecast of the next 6 months. As we can observe in the year of 2020 there was a boom of accounts created among the front line workers.
 
 
 <img src = "https://raw.githubusercontent.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/main/Images/Time%20series%20accounts%20dec.jpeg">
@@ -130,7 +130,7 @@ https://www.mdpi.com/2078-2489/11/6/314/htm
 
 
 
-&nbsp; &nbsp; Lastly, our team performed a non linear regression to predict the cumultie number of tweets given the cumulative number of accounts. The graph demonstrate the exponential relationship between the cumulative number of accounts created adn the cuulative number of tweets.
+&nbsp; &nbsp; Lastly, our team performed a non linear regression to predict the cumulative number of tweets given the cumulative number of accounts. The graph demonstrate the exponential relationship between the cumulative number of accounts created and the cumulative number of tweets.
 
 
 <img src = "https://raw.githubusercontent.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/main/Images/pairs%20account%20tweets.jpeg">
@@ -143,8 +143,8 @@ https://www.mdpi.com/2078-2489/11/6/314/htm
  
 ### Sentment Analysis
 ### Method 
-&nbsp; &nbsp; In other to imterpret what the front line workers were saying in their tweets, our team utilized codes to remove pontuaction, stop words of the english language(e.g., the), get the word stream (e.g., workers, working and worked were transformed in work), and to transform all the words in lowercase so the analysis could be done in the general idea rather than the specific massege of the tweet. Also, after performing all the transformations in the tweets, our team utilized the 
-NRC Word-Emotion Association Lexicon from the package syuzhet[18]. The package utilizes a crowdsource dictionary were people assigned several thousands of words to different feeings and emotions. The package utilizes those classifed words as references and classify the words from the tweets to the following categories:
+&nbsp; &nbsp; In other to interpret what the front line workers were saying in their tweets, our team utilized codes to remove punctuation, stop words of the english language(e.g., the), get the word stream (e.g., workers, working and worked were transformed in work), and to transform all the words in lowercase so the analysis could be done in the general idea rather than the specific message of the tweet. Also, after performing all the transformations in the tweets, our team utilized the 
+NRC Word-Emotion Association Lexicon from the package syuzhet[18]. The package utilizes a crowdsource dictionary were people assigned several thousands of words to different feelings and emotions. The package utilizes those classifed words as references and classify the words from the tweets to the following categories:
 
 
 | Sentiment | Emotion | Emotion | Emotion | Emotion |
@@ -239,42 +239,42 @@ NRC Word-Emotion Association Lexicon from the package syuzhet[18]. The package u
 &nbsp; &nbsp; In other to analyse if there significant changes in how the front line expressed themselves in Twitter, our team peerformed a serie of proportion tests.
 #### Comparison between before 2020 and the first half of 2020
 
-- The proportion of front line workers that transmited **trust, surprise, joy and positive emotions throught the tweets in the first half of 2020 was significantly higher than before 2020 (p < 0.001)**
+- The proportion of front line workers that transmitted **trust, surprise, joy and positive emotions throught the tweets in the first half of 2020 was significantly higher than before 2020 (p < 0.001)**
 
 
-- The proportion of front line workers that transmited **fear, anger, sadness, and negative throught the tweets in the first half of 2020 was significantly lower than before 2020 (p < 0.001)**
+- The proportion of front line workers that transmitted **fear, anger, sadness, and negative throught the tweets in the first half of 2020 was significantly lower than before 2020 (p < 0.001)**
 
 
 #### Comparison between before 2020 and the second half of 2020
 
-- The proportion of front line workers that transmited **trust, surprise, anger, and positive throught the tweets in the second half 2020 was significant higher than the tweets before 2020 (p < 0.001)**
+- The proportion of front line workers that transmitted **trust, surprise, anger, and positive throught the tweets in the second half 2020 was significant higher than the tweets before 2020 (p < 0.001)**
 
-- The proportion of front line workers that transmited **fear, disgust, sadness, and joy throught the tweets in the first half of 2020 was significantly lower than before 2020 (p < 0.001)**
+- The proportion of front line workers that transmitted **fear, disgust, sadness, and joy throught the tweets in the first half of 2020 was significantly lower than before 2020 (p < 0.001)**
 
 
-#### Comparison between the first and the seconf half of 2020
+#### Comparison between the first and the second half of 2020
 
-- The proportion of front line workers that transmited **disgust, surprise, anger, and sadness throught the tweets in the of the second half 2020 was significant higher than the tweets first half of 2020 (p < 0.001)**
+- The proportion of front line workers that transmitted **disgust, surprise, anger, and sadness throught the tweets in the of the second half 2020 was significant higher than the tweets first half of 2020 (p < 0.001)**
 
-- The proportion of front line workers that transmited **trust, joy, surprise, antecipation, engative, and positive throught the tweets in the second half of 2020 was significant lower than the tweets of first half of 2020 (p < 0.001)**
+- The proportion of front line workers that transmitted **trust, joy, surprise, antecipation, negative, and positive throught the tweets in the second half of 2020 was significant lower than the tweets of first half of 2020 (p < 0.001)**
 
 
  <br/>
 
 #### Comparisons within a period
 
-##### Negative VS Positive
-- The proportion of front line workers that transmited **negative sentiments throught the tweets was significantly lower than positive sentiments in all periods(p < 0.001)**
+##### Negative vs Positive
+- The proportion of front line workers that transmitted **negative sentiments throught the tweets was significantly lower than positive sentiments in all periods(p < 0.001)**
 
 
 ##### Sadness vs Joy
-- The proportion of front line workers that transmited **sadness throught the tweets was significantly lower than joy sentiments in all periods(p < 0.001)**
+- The proportion of front line workers that transmitted **sadness throught the tweets was significantly lower than joy sentiments in all periods(p < 0.001)**
 
 
  <br/>
  
 ### Association Rules
-&nbsp; &nbsp; Our team not only interested in the sentiments that would be transmitted through the Twitter from the front line workers, but also interested in the words that the front line workers would speak, in specific in the context of mentioning themselves. Therefore, in other to perform the association rules, our team utilized the first data set of 993 observations were the Twitter users clearly sstated that they were front line workers. The following graphs are ordered respectively by the 5, 10 and 20 words with the most expressive lifts. Our team utilized as threashold <code>*0.01 of aupport and 0.5 of confidence that resulted in more than 200000 association rules*</code>
+&nbsp; &nbsp; Our team not only interested in the sentiments that would be transmitted through the Twitter from the front line workers, but also interested in the words that the front line workers would speak, in specific in the context of mentioning themselves. Therefore, in other to perform the association rules, our team utilized the first data set of 993 observations were the Twitter users clearly stated that they were front line workers. The following graphs are ordered respectively by the 5, 10 and 20 words with the most expressive lifts. Our team utilized as threshold <code>*0.01 of aupport and 0.5 of confidence that resulted in more than 200000 association rules*</code>
 
 <img src = "https://raw.githubusercontent.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/main/Images/lift%205%20Association.jpeg">
 
