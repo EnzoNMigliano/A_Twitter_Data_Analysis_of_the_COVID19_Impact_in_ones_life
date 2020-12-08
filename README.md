@@ -185,7 +185,11 @@ NRC Word-Emotion Association Lexicon from the package syuzhet[18]. The package u
 
 ### Front Line workers Tweets During the First Half of 2020
 
+**500 more frequent words**
 
+<img src = "https://raw.githubusercontent.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/main/Images/Word%20clould%20first%20half%202020.jpeg">
+
+**Top 10 Words**
 
 | Word | Frequency |
 | --- | --- |
@@ -199,9 +203,19 @@ NRC Word-Emotion Association Lexicon from the package syuzhet[18]. The package u
 | get |  |
 | like |  |
 | $ |  |
+
+<img src = "https://raw.githubusercontent.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/main/Images/Emotions%20first%20half%202020.jpeg">
+
+<img src = "https://raw.githubusercontent.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/main/Images/Sentiments%20first%20half%202020.jpeg">
+
 
 ###  Front Line workers Tweets During the Second Half of 2020
 
+**500 more frequent words**
+
+<img src = "https://raw.githubusercontent.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/main/Images/Word%20clould%20second%20half%202020.jpeg">
+
+**Top 10 Words**
 
 | Word | Frequency |
 | --- | --- |
@@ -215,6 +229,11 @@ NRC Word-Emotion Association Lexicon from the package syuzhet[18]. The package u
 | get |  |
 | like |  |
 | $ |  |
+
+<img src = "https://raw.githubusercontent.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/main/Images/emotions%20second%20half%202020.jpeg">
+
+<img src = "https://raw.githubusercontent.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/main/Images/Sentiment%20second%20half%202020.jpeg">
+
 
  <br/>
 
