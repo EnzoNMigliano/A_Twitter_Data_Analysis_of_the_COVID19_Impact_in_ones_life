@@ -84,7 +84,7 @@ https://www.mdpi.com/2078-2489/11/6/314/htm
 ### :heavy_check_mark: How Covid-19 impacted the people who were infected and/or tested positive for the disease?
 &nbsp; &nbsp; Covid-19 has been trending topic in all information and social platforms for the past year. Human interaction has been reduced to a minimum and people have turned to social media to account for their daily activities and to fill the void social distancing has cause. “I have Covid-19.” “I got symptoms.” “I test positive.” These are words no one wishes to express to a loved one, however, they have become more and more common since the pandemic began. The objective of the search queries was to identify among Twitter users those instances in which the users informed in social media that they had Covid-19 symptoms or had positive Covid-19 diagnosis. 
 
-##The Sentimental Analysis 
+### The Sentimental Analysis 
 &nbsp; &nbsp; Exploring some principal phrases like “I have Covid-19.” “I got symptoms.” “I test positive” We found that the phrases where mentioned with the wide range of instances like 5,429 for “I have Covid”, 1,067 for “I test Positive” and just 316 for “I got Symptoms”.
 &nbsp; &nbsp; In our process to understand the phrases or the words we made a histogram for the most common word uses and covid it is mentioned in the tweets text 6,495 for 6,443 tweets downloaded. The “tested word we can see just 1,2009 in second rank follow by “positive” with 1,062 times used.
 
