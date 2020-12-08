@@ -93,7 +93,7 @@ https://www.mdpi.com/2078-2489/11/6/314/htm
 The following visualization is to see how the word ‘covid’ is use in relation to other words.
 <img src ="https://github.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/blob/main/Images/WCPicture3.jpg">
 
-##Cluster
+### Cluster
 &nbsp; &nbsp;For the cluster analysis I select the variables that work for the model. The cluster is important for the data analysis, is the job of grouping variables or attributes in the same group that represent the same hierarchical clustering. 
 &nbsp; &nbsp;The Elbow method is to define clusters and the cluster inside variation. The following K-mean cluster indicate that two cluster is the distribution for this data for “followers” and “favorites”.
 <img src ="https://github.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/blob/main/Images/KmeansPicture8.jpg">
@@ -107,14 +107,14 @@ The second cluster annalisys data show that the within cluster sum of sum square
 ##Cluster of test/word from the tweeter
 &nbsp; &nbsp;Not enough with the tweets I decide to build a cluster test word for the text tweets and the result was that the ‘covid ‘ as a principal selection it’s connect with two other “positive , test” and “mask and wear”. We can appreciate this in the Hierarchical word/tweeter clustering using dendrogram.
 
-#Plot Frequent term
+### Plot Frequent term
 <img src ="https://github.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/blob/main/Images/PlotFreqWPicture13%20-%20Copy.jpg">
 
-#Hierarchical word/tweeter clustering using dendrogram
+### Hierarchical word/tweeter clustering using dendrogram
 <img src = "https://github.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/blob/main/Images/ClusterDendogramPicture14.jpg">
 Using dendrogram cluster the algorithm indicates that the within cluster sum square by cluster is 26.4%.
 
-#Logistic Model
+### Logistic Model
 &nbsp; &nbsp;For the logistic Model we prepare the variable source from the tweets and we classify the in two groups ‘Mobile’ and ‘Web app’. The dependent variables were ‘source’ and the other variables like ‘display width’, ‘followers’, ‘friends’, ‘listed’, ‘statuses’ and ‘favorites’.  The model shows that the interaction with display text width, the listed count and the status count are the only variables that represent significant differences. 
 
 glm(formula = source ~ ., family = binomial, data = train_lgtweets)
@@ -166,7 +166,7 @@ Precision is: 0.9985714
 Recall is: 0.8792453
 
 
-#Decision Tree
+### Decision Tree
 <img src ="https://github.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/blob/main/Images/DecisionTreePicture15%20-%20Copy.jpg">
 The accuracy of the model is 67.41%
 
