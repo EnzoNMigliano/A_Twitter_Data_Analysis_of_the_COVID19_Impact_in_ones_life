@@ -44,12 +44,14 @@ A Twitter Data Analysis of the COVID-19 Impact in One's Life 🦠
  
  # Motivations & Past Research
   
-  COVID has affected every aspect of our lives, the way we gather, work, communicate, relate, and live. Even though we are seeing some improvements and we are slowly starting to see things go back to normal this pandemic has definitely taken a toll on everyone's physical and mental health. 
+&nbsp; &nbsp; COVID has affected every aspect of our lives, the way we gather, work, communicate, relate, and live. Even though we are seeing some improvements and we are slowly starting to see things go back to normal this pandemic has definitely taken a toll on everyone's physical and mental health. 
   
   ### Motivation
-  Our motivation for this Project is to understand how people are currently feeling around COVID and what's their state of mind during the pandemic.  
+  &nbsp; &nbsp; Our motivation for this Project is to understand how people are currently feeling around COVID and what's their state of mind during the pandemic, in specific for the front line workers, people who tested positive for COVID-19, and people's affectss towards the vacine.  
   
   ### Past Research 
+
+&nbsp; &nbsp; Despite the fact that the pandemic is fairly recent in our society, some research has been done in regards of the impact of COVID-19 in people's lives. 
 
 - Sentiment Analysis of COVID-19 tweets by Deep Learning Classifiers
 https://www.sciencedirect.com/science/article/pii/S156849462030692X
