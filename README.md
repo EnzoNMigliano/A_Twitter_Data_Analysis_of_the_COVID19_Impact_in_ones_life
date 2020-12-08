@@ -87,7 +87,10 @@ https://www.mdpi.com/2078-2489/11/6/314/htm
   
 ### :heavy_check_mark: How Covid-19 impacted the people who were infected and/or tested positive for the disease?
 
-
+&nbsp; &nbsp;Covid-19 has been trending topic in all information and social platforms for the past year. Human interaction has been reduced to a minimum and people have turned to social media to account for their daily activities and to fill the void social distancing has cause. “I have Covid-19.” “I got symptoms.” “I test positive.” These are words no one wishes to express to a loved one, however, they have become more and more common since the pandemic began. The objective of the search queries was to identify among Twitter users those instances in which the users informed in social media that they had Covid-19 symptoms or had positive Covid-19 diagnosis. 
+  
+  
+  
  <br/>
  <br/>
 
