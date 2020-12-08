@@ -161,6 +161,9 @@ Recall is: 0.8792453
 <img src ="https://github.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/blob/main/Images/DecisionTreePicture15%20-%20Copy.jpg">
 The accuracy of the model is 67.41%
 
+##Conclusion
+&nbsp; &nbsp;The results show that the words ‘Covid’, ‘tested’ and ‘positive’ are being used more frequently than others. We can expect that with time as the pandemic progresses and eventually decrease its impact on our lives the sentiment expressions will vary to negative sentiment to positive one This type of research evaluation will help the health community and policy makers in being able to provide people with necessary information and resources to deal with the impact of Covid19 and to be able to identify where assistance is needed immediately.
+
  <br/>
  <br/>
 
