@@ -436,6 +436,7 @@ In this visualizations, you'll see how the semantic differentials appear and com
 
 ## Conclusion
  
+     There are more positive feelings related to the vaccine, the predominant feeling is “safe” followed by “hopeful” and “happy”. The predominant negative feelings are “scared”, “mad”, “hesitant”. Moreover, Twitter has become a relevant platform for the front line workers express themselves. As we saw the front line workers, despite all challenges, remained with a positive attitude, or better yet, with a positive attitude significantly higher than before. Therefore, lets respect the front line workers resiliency and do one of the major requests in the their tweets “Wear -> Mask”. Finally, COVID-19 is a serious issue, even for those who are not in risk group, as we saw people who got COVID-19 also tweeted that they were feeling sick and had symptoms. Moreover, another word tweeted with COVID-19 was home, and therefore shows another challenge for those who tested positive: A complete social isolation for a period of 14 days. In conclusion, COVID-19 is a complex issue with the most diverse impacts in society, but its individual impacts are more salient for those who were directly exposed to the virus in the most diverse situations. There is hope, however, with the vaccines and the overall positive sentment of the population regarding the vaccines.
  
  
  <br/>
