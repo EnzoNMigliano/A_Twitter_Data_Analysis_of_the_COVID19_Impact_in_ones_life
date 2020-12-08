@@ -88,7 +88,87 @@ https://www.mdpi.com/2078-2489/11/6/314/htm
 &nbsp; &nbsp; Exploring some principal phrases like “I have Covid-19.” “I got symptoms.” “I test positive” We found that the phrases where mentioned with the wide range of instances like 5,429 for “I have Covid”, 1,067 for “I test Positive” and just 316 for “I got Symptoms”.
 &nbsp; &nbsp; In our process to understand the phrases or the words we made a histogram for the most common word uses and covid it is mentioned in the tweets text 6,495 for 6,443 tweets downloaded. The “tested word we can see just 1,2009 in second rank follow by “positive” with 1,062 times used.
 
+<img src ="https://github.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/blob/main/Images/wplot1.jpg">
 
+The following visualization is to see how the word ‘covid’ is use in relation to other words.
+<img src ="https://github.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/blob/main/Images/WCPicture3.jpg">
+
+##Cluster
+&nbsp; &nbsp;For the cluster analysis I select the variables that work for the model. The cluster is important for the data analysis, is the job of grouping variables or attributes in the same group that represent the same hierarchical clustering. 
+&nbsp; &nbsp;The Elbow method is to define clusters and the cluster inside variation. The following K-mean cluster indicate that two cluster is the distribution for this data for “followers” and “favorites”.
+<img src ="https://github.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/blob/main/Images/KmeansPicture8.jpg">
+
+The first data show that the within cluster sum of sum squares is 59.2%. The following visualization is for the Kmeans Cluster Followers and Favorites for tweets.
+<img src = "https://github.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/blob/main/Images/KmeansPicture8.jpg">
+
+The second cluster annalisys data show that the within cluster sum of sum squares is 53.2%. The following visualization is for the Kmeans Cluster Followers and Friends for tweets.
+<img src ="https://github.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/blob/main/Images/TweetsPicture12.jpg">
+
+##Cluster of test/word from the tweeter
+&nbsp; &nbsp;Not enough with the tweets I decide to build a cluster test word for the text tweets and the result was that the ‘covid ‘ as a principal selection it’s connect with two other “positive , test” and “mask and wear”. We can appreciate this in the Hierarchical word/tweeter clustering using dendrogram.
+
+#Plot Frequent term
+<img src ="https://github.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/blob/main/Images/PlotFreqWPicture13%20-%20Copy.jpg">
+
+#Hierarchical word/tweeter clustering using dendrogram
+<img src = "https://github.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/blob/main/Images/ClusterDendogramPicture14.jpg">
+Using dendrogram cluster the algorithm indicates that the within cluster sum square by cluster is 26.4%.
+
+#Logistic Model
+&nbsp; &nbsp;For the logistic Model we prepare the variable source from the tweets and we classify the in two groups ‘Mobile’ and ‘Web app’. The dependent variables were ‘source’ and the other variables like ‘display width’, ‘followers’, ‘friends’, ‘listed’, ‘statuses’ and ‘favorites’.  The model shows that the interaction with display text width, the listed count and the status count are the only variables that represent significant differences. 
+
+glm(formula = source ~ ., family = binomial, data = train_lgtweets)
+
+Deviance Residuals: 
+    Min       1Q   Median       3Q      Max  
+-1.9569  -0.5288  -0.4613  -0.4195   2.7118  
+
+Coefficients: (1 not defined because of singularities)
+                     Estimate Std. Error z value Pr(>|z|)    
+(Intercept)        -2.488e+00  9.314e-02 -26.713  < 2e-16 ***
+display_text_width  4.126e-03  5.361e-04   7.697  1.4e-14 ***
+followers_count    -3.919e-05  2.092e-05  -1.874 0.060977 .  
+friends_count       3.244e-05  2.093e-05   1.550 0.121121    
+listed_count        6.047e-03  1.572e-03   3.847 0.000119 ***
+statuses_count     -4.333e-06  1.979e-06  -2.190 0.028540 *  
+favourites_count   -4.001e-07  1.372e-06  -0.292 0.770550    
+SampleTRUE                 NA         NA      NA       NA    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Confusion Matrix and Statistics
+        Reference
+Prediction Mobile WEB_APP
+   Mobile    1398       2
+   WEB_APP    192       0
+                                         
+               Accuracy : 0.8781          
+                 95% CI : (0.8611, 0.8938)
+    No Information Rate : 0.9987          
+    P-Value [Acc > NIR] : 1               
+                                          
+                  Kappa : -0.0025         
+                                          
+ Mcnemar's Test P-Value : <2e-16          
+                                          
+Sensitivity: 0.8792          
+Specificity: 0.0000          
+Pos Pred Value: 0.9986          
+Neg Pred Value: 0.0000          
+Prevalence: 0.9987          
+Detection Rate: 0.8781          
+Detection Prevalence: 0.8794          
+Balanced Accuracy: 0.4396          
+                                          
+       'Positive' Class: Mobile          
+                                          
+Precision is: 0.9985714 
+Recall is: 0.8792453
+
+
+#Decision Tree
+<img src ="https://github.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/blob/main/Images/DecisionTreePicture15%20-%20Copy.jpg">
+The accuracy of the model is 67.41%
 
  <br/>
  <br/>
