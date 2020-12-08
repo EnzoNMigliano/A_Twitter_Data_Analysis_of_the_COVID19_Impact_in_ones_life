@@ -123,16 +123,7 @@ Deviance Residuals:
     Min       1Q   Median       3Q      Max  
 -1.9569  -0.5288  -0.4613  -0.4195   2.7118  
 
-Coefficients: (1 not defined because of singularities)
-                     Estimate Std. Error z value Pr(>|z|)    
-(Intercept)        -2.488e+00  9.314e-02 -26.713  < 2e-16 ***
-display_text_width  4.126e-03  5.361e-04   7.697  1.4e-14 ***
-followers_count    -3.919e-05  2.092e-05  -1.874 0.060977 .  
-friends_count       3.244e-05  2.093e-05   1.550 0.121121    
-listed_count        6.047e-03  1.572e-03   3.847 0.000119 ***
-statuses_count     -4.333e-06  1.979e-06  -2.190 0.028540 *  
-favourites_count   -4.001e-07  1.372e-06  -0.292 0.770550    
-SampleTRUE                 NA         NA      NA       NA    
+<img src ="https://github.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/blob/main/Images/LGM.jpg">  
 ---
 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
