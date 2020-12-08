@@ -51,12 +51,8 @@ A Twitter Data Analysis of the COVID-19 Impact in One's Life 🦠
   
   ### Past Research 
 
-&nbsp; &nbsp; Despite the fact that the pandemic is fairly recent in our society, some research has been done in regards of the impact of COVID-19 in people's lives. 
+&nbsp; &nbsp; Despite the fact that the pandemic is fairly recent in our society, some research has been done in regards of the impact of COVID-19 in people's lives. The pandemic has been analyzed, however, in a large spectrun, in other words, in many studies the COVID-19 overral effect in society was the main porpuse. The results of such studies are great to understand the impact of COVID-19 as a whole, for  example, according to Chakraborty et al.[29] people majorly tweeted positive messages regarding COVID-19, but re-tweeted the negative tweets. 
 
-- Sentiment Analysis of COVID-19 tweets by Deep Learning Classifiers
-https://www.sciencedirect.com/science/article/pii/S156849462030692X
-
-- Sentiment analysis and its applications in fighting COVID-19 and infectious diseases https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7591875/
 
 - Global Sentiment Analysis Of COVID-19 Tweets Over Time 
 https://arxiv.org/abs/2010.14234
@@ -87,10 +83,7 @@ https://www.mdpi.com/2078-2489/11/6/314/htm
   
 ### :heavy_check_mark: How Covid-19 impacted the people who were infected and/or tested positive for the disease?
 
-&nbsp; &nbsp;Covid-19 has been trending topic in all information and social platforms for the past year. Human interaction has been reduced to a minimum and people have turned to social media to account for their daily activities and to fill the void social distancing has cause. “I have Covid-19.” “I got symptoms.” “I test positive.” These are words no one wishes to express to a loved one, however, they have become more and more common since the pandemic began. The objective of the search queries was to identify among Twitter users those instances in which the users informed in social media that they had Covid-19 symptoms or had positive Covid-19 diagnosis. 
-  
-  
-  
+
  <br/>
  <br/>
 
@@ -198,16 +191,16 @@ NRC Word-Emotion Association Lexicon from the package syuzhet[18]. The package u
 
 | Word | Frequency |
 | --- | --- |
-| new |  | 
-| year |  |
-| one  |  |
-| say |  |
-| us |  |
-| can |  |
-| poepl |  |
-| get |  |
-| like |  |
-| $ |  |
+| peopl | 1310 | 
+| just | 1190 |
+| get  | 1123 |
+| like | 1082 |
+| :joy: | 1008 |
+| can | 1003 |
+| go | 996 |
+| one | 995 |
+| need | 902 |
+| time | 828 |
 
 <img src = "https://raw.githubusercontent.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/main/Images/Emotions%20first%20half%202020.jpeg">
 
@@ -224,16 +217,16 @@ NRC Word-Emotion Association Lexicon from the package syuzhet[18]. The package u
 
 | Word | Frequency |
 | --- | --- |
-| new |  | 
-| year |  |
-| one  |  |
-| say |  |
-| us |  |
-| can |  |
-| poepl |  |
-| get |  |
-| like |  |
-| $ |  |
+| just | 18359 | 
+| like | 18178 |
+| peopl  | 17245 |
+| trump | 15794 |
+| get | 15784 |
+| :joy: | 15434 |
+| one | 13887 |
+| can | 13512 |
+| go | 13067 |
+| know | 11331 |
 
 <img src = "https://raw.githubusercontent.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/main/Images/emotions%20second%20half%202020.jpeg">
 
@@ -470,6 +463,13 @@ References
 
 [28] 	Kirill Mülle (2019) DBI: R Database Interface. https://cran.r-project.org/package=DBI
 
+[29] https://www.sciencedirect.com/science/article/pii/S156849462030692X
+
+[30] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7591875/
+
+[31]
+
+[32]
 
 </p>
 <h1>
