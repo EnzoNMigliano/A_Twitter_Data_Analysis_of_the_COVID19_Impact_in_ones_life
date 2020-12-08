@@ -99,7 +99,7 @@ The following visualization is to see how the word ‘covid’ is use in relatio
 <img src ="https://github.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/blob/main/Images/KmeansPicture8.jpg">
 
 The first data show that the within cluster sum of sum squares is 59.2%. The following visualization is for the Kmeans Cluster Followers and Favorites for tweets.
-<img src = "https://github.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/blob/main/Images/KmeansPicture8.jpg">
+<img src = "https://github.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/blob/main/Images/KmeansPlotPicture10%20-%20Copy.jpg">
 
 The second cluster annalisys data show that the within cluster sum of sum squares is 53.2%. The following visualization is for the Kmeans Cluster Followers and Friends for tweets.
 <img src ="https://github.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/blob/main/Images/TweetsPicture12.jpg">
