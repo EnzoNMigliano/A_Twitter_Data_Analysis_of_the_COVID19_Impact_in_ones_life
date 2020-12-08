@@ -104,7 +104,7 @@ The first data show that the within cluster sum of sum squares is 59.2%. The fol
 The second cluster annalisys data show that the within cluster sum of sum squares is 53.2%. The following visualization is for the Kmeans Cluster Followers and Friends for tweets.
 <img src ="https://github.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/blob/main/Images/TweetsPicture12.jpg">
 
-##Cluster of test/word from the tweeter
+### Cluster of test/word from the tweeter
 &nbsp; &nbsp;Not enough with the tweets I decide to build a cluster test word for the text tweets and the result was that the ‘covid ‘ as a principal selection it’s connect with two other “positive , test” and “mask and wear”. We can appreciate this in the Hierarchical word/tweeter clustering using dendrogram.
 
 ### Plot Frequent term
