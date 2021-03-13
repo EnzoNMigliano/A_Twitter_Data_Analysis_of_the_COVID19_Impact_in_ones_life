@@ -34,8 +34,7 @@ A Twitter Data Analysis of the COVID-19 Impact in One's Life 🦠
 | [17] | lda | [18] | syuzhet | [19] | wordcloud2 | [20] | RColorBrewer |
 | [21] | party | [22] | rpart | [23] | rpart.plot | [24] | e1071 |
 | [25] | rtweet  | [26] | RMySQL | [27] | odbc | [28] | DBI |
-|  |  | | | |  |  | |
-|  |  | | | |  |  | |
+
 
 
 
@@ -354,7 +353,7 @@ NRC Word-Emotion Association Lexicon from the package syuzhet[18]. The package u
  <br/>
  
 ### Association Rules
-&nbsp; &nbsp; Our team not only interested in the sentiments that would be transmitted through the Twitter from the front line workers, but also interested in the words that the front line workers would speak, in specific in the context of mentioning themselves. Therefore, in other to perform the association rules, our team utilized the first data set of 993 observations were the Twitter users clearly stated that they were front line workers. The following graphs are ordered respectively by the 5, 10 and 20 words with the most expressive lifts. Our team utilized as threshold <code>*0.01 of aupport and 0.5 of confidence that resulted in more than 200000 association rules*</code>
+&nbsp; &nbsp; Our team not only interested in the sentiments that would be transmitted through the Twitter from the front line workers, but also interested in the words that the front line workers would speak, in specific in the context of mentioning themselves. Therefore, in other to perform the association rules, our team utilized the first data set of 993 observations were the Twitter users clearly stated that they were front line workers. The following graphs are ordered respectively by the 5, 10 and 20 words with the most expressive lifts. Our team utilized as threshold <code>*0.01 of support and 0.5 of confidence that resulted in more than 200000 association rules*</code>
 
 <img src = "https://raw.githubusercontent.com/EnzoNMigliano/A_Twitter_Data_Analysis_of_the_COVID19_Impact_in_ones_life/main/Images/lift%205%20Association.jpeg">
 
@@ -548,9 +547,6 @@ References
 
 [30] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7591875/
 
-[31]
-
-[32]
 
 </p>
 <h1>
